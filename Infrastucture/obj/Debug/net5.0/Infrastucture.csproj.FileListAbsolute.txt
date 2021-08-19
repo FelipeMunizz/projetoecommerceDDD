@@ -1,0 +1,17 @@
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Infrastucture.deps.json
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Infrastucture.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\ref\Infrastucture.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Infrastucture.pdb
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.csproj.AssemblyReference.cache
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.AssemblyInfoInputs.cache
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.AssemblyInfo.cs
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\ref\Infrastucture.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.pdb
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Entities.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Entities.pdb
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\obj\Debug\net5.0\Infrastucture.csproj.CopyComplete
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Domain.dll
+C:\Users\LENIRA\Desktop\Nova pasta\EcommerceDDD\Infrastucture\bin\Debug\net5.0\Domain.pdb
